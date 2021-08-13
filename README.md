@@ -56,7 +56,7 @@ experimental/wine
 
 move games to /home/RetroPie/roms/wine/games This can be done many ways pixel desktop and midnight commander to name a few.
 
-Make Game Launch script
+7. Make Game Launch script
 
 Use the shell script method. in terminal type
 
@@ -94,7 +94,9 @@ Then replace "home/pi.......yourmugenfolder/" on cd line above. with your paths 
 
 Then replace 'home/pi......mugennamehere.exe' on wine line with your paths to exe .
 
-8.Replace wine desktop file with attached "Wine Desktop.sh" in this github . 
+8.Replace wine desktop file
+
+Replace winedesktop.sh with attached "Wine Desktop.sh" in this github
 
 This for all windows gamez not necessary if your gonna play mugen.
 
