@@ -17,9 +17,11 @@ pc to burn/etch sd card.
 1.Download os of choice.
 
 2.update with 
+
 sudo apt update
 
 3.Install Pixel
+
 Go to retropie setup/configurations&tools/raspbiantools/install pixel 
 
 4.Install Georges retropi setup extras
@@ -34,7 +36,9 @@ After completion of above script
 
 In terminal type 
 
-emulationstation work like this for now .
+emulationstation 
+
+work like this for now .
 
 5.Update RetroPie-Setup and install scripts
 
@@ -48,16 +52,19 @@ experimental/box86
 
 experimental/wine
 
-6.Move game fies to /home/RetroPie/roms/wine/games This can be done many ways pixel desktop and midnight commander to name a few.
+6.Move Mugens to pi 
+
+move games to /home/RetroPie/roms/wine/games This can be done many ways pixel desktop and midnight commander to name a few.
 
 Make Game Launch script
+
 Use the shell script method. in terminal type
 
 sudo nano /home/pi/RetroPie/roms/wine/mugennamehere.sh
 
 replace mugennamehere with your mugens name .
 
-containing the following:
+copy following into your new .sh 
 
 #!/bin/bash
 
@@ -71,15 +78,29 @@ qjoypad "mugen" &
 
 WINEDEBUG=-all LD_LIBRARY_PATH="/opt/retropie/supplementary/mesa/lib/" setarch linux32 -L /opt/retropie/emulators/wine/bin/wine '/home/pi/RetroPie/roms/wine/games/yourmugenfolder/mugennamehere.EXE'
 
+Another example 
+
+#!/bin/bash
+
+cd"/home/pi/Retropie/roms/wine/games/yourmugenfolder"
+
+qjoypad "mugen" &
+
+WINEDEBUG=-all LD_LIBRARY_PATH="/opt/retropie/supplementary/mesa/lib/" setarch linux32 -L /opt/retropie/emulators/wine/bin/wine '/home/pi/RetroPie/roms/wine/games/yourmugenfolder/mugennamehere.EXE
+
 Easiest way to get paths for mugens is right click your exe and copy paths .
 
 Then replace "home/pi.......yourmugenfolder/" on cd line above. with your paths to folder containing exe.
 
 Then replace 'home/pi......mugennamehere.exe' on wine line with your paths to exe .
 
-8.Replace wine desktop file with attached "Wine Desktop.sh" in this github .
+8.Replace wine desktop file with attached "Wine Desktop.sh" in this github . 
 
-9.if your not in pixel open it. Then install Qjoypad with
+This for all windows gamez not necessary if your gonna play mugen.
+
+9.Install qjoypad
+
+If your not in pixel open it. Then install Qjoypad with
 
 sudo apt-get install qjoypad
 
