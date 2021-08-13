@@ -139,3 +139,21 @@ Mugen 1.0 works best some 1.1 work.
 *Why/whats debug key ?
 
 -debug key is control+d. Allows you to see fps and info in bottom leftof screen .
+
+
+*Resources
+
+Box86 Github - https://github.com/ptitSeb/box86
+Retropie Github - https://github.com/retropie
+Mugen - can be found many places. Orginal website is down.
+Georges Github - https://github.com/GeorgeMcMullen/rp-box86wine
+Retropie Box86 Forum -  https://retropie.org.uk/forum/topic/28528/box86-and-wine-on-rpi4/358
+
+
+*Props/Credits
+
+Box86.
+Retropie.
+Mugen.
+Pi foundation
+George McMullen
