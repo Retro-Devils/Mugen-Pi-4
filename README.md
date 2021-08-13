@@ -5,9 +5,13 @@ How to get mugen on Raspberry pi 4.
 You will need
 
 pi 4.
+
 micro sd
+
 keyboard.
+
 usb mouse.
+
 pc to burn/etch sd card.
 
 1.Download os of choice.
@@ -143,17 +147,30 @@ Mugen 1.0 works best some 1.1 work.
 
 *Resources
 
-Box86 Github - https://github.com/ptitSeb/box86
-Retropie Github - https://github.com/retropie
-Mugen - can be found many places. Orginal website is down.
-Georges Github - https://github.com/GeorgeMcMullen/rp-box86wine
-Retropie Box86 Forum -  https://retropie.org.uk/forum/topic/28528/box86-and-wine-on-rpi4/358
+Box86 Github 
+https://github.com/ptitSeb/box86
+
+Retropie Github 
+https://github.com/retropie
+
+Mugen 
+Can be found many places. Orginal website is down.
+
+Georges Github 
+https://github.com/GeorgeMcMullen/rp-box86wine
+
+Retropie Box86 Forum 
+https://retropie.org.uk/forum/topic/28528/box86-and-wine-on-rpi4/358
 
 
 *Props/Credits
 
 Box86.
+
 Retropie.
+
 Mugen.
+
 Pi foundation
+
 George McMullen
