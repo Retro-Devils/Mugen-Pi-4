@@ -18,9 +18,11 @@ Alright let's get started .
 
 1.Download os of choice.
 
-2.update with 
+2.Update system  with 
 
 sudo apt-get update
+
+If you know this will mess your build up don't do it .
 
 3.Install Pixel
 
