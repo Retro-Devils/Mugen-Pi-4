@@ -18,9 +18,11 @@ Alright let's get started .
 
 1.Download os of choice.
 
-2.Update system  with 
+2.Update system  with following commands 
 
 sudo apt-get update
+
+sudo apt-get full-upgrade
 
 If you know this will mess your build up don't do it .
 
