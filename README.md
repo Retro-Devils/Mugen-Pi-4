@@ -155,7 +155,7 @@ Open terminal type sudo reboot .
 
 If you made your .sh correct your mugen should appear under wine. Click play on it like any other game .
 
-14.Map mugem controls to match qjoypad.
+14.Map mugen controls to match qjoypad.
 
 Best way is to leave your keyboard hooked up. Then go to input config in mugen, then f1 for player 1, then use your controller to map the button. 
 
@@ -218,7 +218,7 @@ With twister you'll have to find thier wine and direct to it in the shell script
 
 *How did we do this? 
 
-This is community made and maintained . Hopefully soon RetroPie/Raspberry Pi will use it soon.  George McMullen has a pull request in Retropie github.
+This is community made and maintained . Hopefully soon RetroPie/Raspberry Pi will use wine/box86.  George McMullen has a pull request in Retropie github.
 
 
 
