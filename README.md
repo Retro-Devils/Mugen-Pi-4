@@ -168,7 +168,7 @@ Mugen 1.0 works best some 1.1 work. We have been unsuccessful with winmugen.
 
 *Why/whats debug key ?
 
--debug key is control+d. Allows you to see fps and info in bottom leftof screen .
+-debug key is control+d. Allows you to see fps and info in bottom left of screen .
 
 
 
