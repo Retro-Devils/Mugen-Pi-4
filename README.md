@@ -94,24 +94,20 @@ Then replace "home/pi.......yourmugenfolder/" on cd line above. with your paths 
 
 Then replace 'home/pi......mugennamehere.exe' on wine line with your paths to exe .
 
-8.Replace wine desktop file
+Exit nano with control+X then control+Y this saves your new .sh script.
 
-Replace winedesktop.sh with attached "Wine Desktop.sh" in this github
-
-This for all windows gamez not necessary if your gonna play mugen.
-
-9.Install qjoypad
+8.Install qjoypad
 
 If your not in pixel open it. Then install Qjoypad with
 
 sudo apt-get install qjoypad
 
-10.Create a controller layout for mugen. 
+9.Create a controller layout for mugen. 
 
 Open qjoypad and make a layout called mugen. then map your controllers to buttons you wanna use in mugen. when you open mugen match these buttons.
 Make sure you map escape key .
 
-11.Open mugen config in yourmugen/data/mugen.cfg most the time .
+10.Open mugen config in yourmugen/data/mugen.cfg most the time .
 
 then find and change the followinfor best performance .
 
@@ -135,13 +131,13 @@ then find and change the followinfor best performance .
 
 -Keep AspectRatio=1
 
-12.open terminal type sudo reboot
+11.open terminal type sudo reboot
 
-13.Find mugen in retropie press play .
+12.Find mugen in retropie press play .
 
-14.Map controls to match qjoypad.
+13.Map controls to match qjoypad.
 
-15.Save your config in mugen menu .
+14.Save your config in mugen menu .
 
 
 
