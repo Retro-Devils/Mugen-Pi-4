@@ -62,6 +62,8 @@ After reboot you should see a wine category with Wine Desktop in it.
 
 Click on Wine Desktop. If wine doesn't launch Mugen wont.
 
+Exit wine desktop by clicking start then run then type "shutdown" and press ok or enter.
+
 7.Move Mugens to pi 
 
 move games to /home/RetroPie/roms/wine/games This can be done many ways pixel desktop and midnight commander to name a few
