@@ -168,7 +168,7 @@ Soon the Retro Devils will have a install script for mugens to download from our
 
 *Which Mugens work?
 
-Mugen 1.0 works best some 1.1 work.
+Mugen 1.0 works best some 1.1 work. We have been unsuccessful with winmugen.
 
 *Why/whats debug key ?
 
