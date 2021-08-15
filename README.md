@@ -151,11 +151,18 @@ Frequently Asked Questions.
 
 *Where/how do I get mugens?
 
-visit
+Heres a few sources for mugen and info.
 
-https://www.andersonkenya1.net/files/category/3-full-mugen-games
 
-Then make a free account and download mugens.
+https://mugen.fandom.com/wiki/M.U.G.E.N
+
+https://mugenfreeforall.com/
+
+https://www.andersonkenya1.net/files/category/3-full-mugen-games/
+
+https://www.mugendb.com/
+
+https://www.mugenation.it/category/mugen-full-games/
 
 Soon the Retro Devils will have a install script for mugens to download from our mediafire .
 
@@ -168,7 +175,7 @@ Mugen 1.0 works best some 1.1 work.
 -debug key is control+d. Allows you to see fps and info in bottom leftof screen .
 
 
-*Resources
+
 
 Box86 Github 
 https://github.com/ptitSeb/box86
