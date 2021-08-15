@@ -1,6 +1,6 @@
 # Mugen-Pi-4
 
-How to get mugen on Raspberry pi 4. 
+How to get mugen on Raspberry pi 4. Updated August 15, 2021
 
 You will need
 
