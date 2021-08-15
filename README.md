@@ -143,15 +143,21 @@ then find and change the followinfor best performance .
 
 -Keep AspectRatio=1
 
-12.open terminal type sudo reboot
+12.Reboot To refresh the system 
 
-13.Find mugen in retropie press play .
+Open terminal type sudo reboot .
 
-14.Map controls to match qjoypad.
+13.Launch mugen 
+
+If you made your .sh correct your mugen should appear under wine. Click play on it like any other game .
+
+14.Map mugem controls to match qjoypad.
+
+Best way is to leave your keyboard hooked up. Then go to input config in mugen, then f1 for player 1, then use your controller to map the button. 
 
 15.Save your config in mugen menu .
 
-Thats it. Repeat for your Mugens and enjoy .
+16.Enjoy !!! 
 
 
 
@@ -190,6 +196,10 @@ Frequently Asked Questions.
 
 -Debug key is control+d. Allows you to see fps and info in bottom left of screen .
 
+
+*Why didn't controls work for "Mugen 2" ?
+
+Make sure to change all the mugens ypu adds control and mugen.cfg file.
 
 
 *Why didn't this work on my/pre-made retropie?
