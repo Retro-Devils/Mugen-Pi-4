@@ -68,11 +68,25 @@ Click on Wine Desktop. If wine doesn't launch Mugen wont.
 
 Exit wine desktop by clicking start then run then type "shutdown" and press ok or enter.
 
-7.Move Mugens to pi 
+7. Replace Wine Desktop.sh 
+
+Replace wine desktop.sh with the one in this github .
+
+After you replace rename from Wine Desktop.sh to WineDesktop.sh
+
+Then in terminal run
+
+chmod +x /home/pi/RetroPie/roms/wine/WineDesktop.sh
+
+Then rename from WineDesktop.sh to Wine Desktop.sh
+
+Retest wine desktop .
+
+8.Move Mugens to pi 
 
 move games to /home/RetroPie/roms/wine/games This can be done many ways pixel desktop and midnight commander to name a few
 
-8. Make Game Launch script
+9. Make Game Launch script
 
 Use the shell script method. in terminal type
 
@@ -112,18 +126,18 @@ Then replace 'home/pi......mugennamehere.exe' on wine line with your paths to ex
 
 Exit nano with control+X then control+Y this saves your new .sh script.
 
-9.Install qjoypad
+10.Install qjoypad
 
 If your not in pixel open it. Then install Qjoypad with
 
 sudo apt-get install qjoypad
 
-10.Create a controller layout for mugen. 
+11.Create a controller layout for mugen. 
 
 Open qjoypad and make a layout called mugen. then map your controllers to buttons you wanna use in mugen. when you open mugen match these buttons.
 Make sure you map escape key .
 
-11.Open mugen config in yourmugen/data/mugen.cfg most the time .
+12.Open mugen config in yourmugen/data/mugen.cfg most the time .
 
 then find and change the followinfor best performance .
 
@@ -147,21 +161,21 @@ then find and change the followinfor best performance .
 
 -Keep AspectRatio=1
 
-12.Reboot To refresh the system 
+13.Reboot To refresh the system 
 
 Open terminal type sudo reboot .
 
-13.Launch mugen 
+14.Launch mugen 
 
 If you made your .sh correct your mugen should appear under wine. Click play on it like any other game .
 
-14.Map mugen controls to match qjoypad.
+15.Map mugen controls to match qjoypad.
 
 Best way is to leave your keyboard hooked up. Then go to input config in mugen, then f1 for player 1, then use your controller to map the button. 
 
-15.Save your config in mugen menu .
+16.Save your config in mugen menu .
 
-16.Enjoy !!! 
+17.Enjoy !!! 
 
 
 
