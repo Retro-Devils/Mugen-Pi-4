@@ -229,6 +229,12 @@ With twister you'll have to find thier wine and direct to it in the shell script
 
 -A very uncommon external Hdd issue has been seen. Where wine and box86 don't work with a hdd plugged in. We have not experienced this on the 6 builds we tested on. Only been reported one time.
 
+*Wanna try a different way ?
+
+-https://thepigamer.blogspot.com/2021/06/making-xwindow-wine-and-box86-work.html
+
+Credit for link to pigamer
+
 
 *How did we do this? 
 
