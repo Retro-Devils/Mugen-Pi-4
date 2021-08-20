@@ -28,6 +28,8 @@ If you know this will mess your build up don't do it .
 
 3.Install Pixel
 
+If this is a new retropie os do basic install first .
+
 Go to retropie setup/configurations&tools/raspbiantools/install pixel 
 
 4.Install Georges retropi setup extras
