@@ -261,17 +261,24 @@ https://github.com/GeorgeMcMullen/rp-box86wine
 Retropie Box86 Forum 
 https://retropie.org.uk/forum/topic/28528/box86-and-wine-on-rpi4/358
 
+Pi Labs/Twister OS
+https://twisteros.com
+
 
 Props/Credits
 
 Box86.
 
+Wine.
+
 Retropie.
+
+Pi Labs 
 
 Mugen.
 
-Pi foundation
+Pi foundation.
 
-George McMullen
+George McMullen.
 
-Crash Cortez 
+Crash Cortez.
