@@ -219,7 +219,7 @@ Frequently Asked Questions.
 
 *Why didn't controls work for "Mugen 2" ?
 
-Make sure to change all the mugens ypu adds control and mugen.cfg file.
+Make sure to change all the mugens you add controls in and mugen.cfg file or in game.
 
 
 *Why didn't this work on my/pre-made retropie?
