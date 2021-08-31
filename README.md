@@ -1,185 +1,42 @@
 # Mugen-Pi-4
 
-How to get mugen on Raspberry pi 4. Updated August 15, 2021
+Thanks to working with Supreme team we have made a one line installer .
 
-You will need
+Open terminal type 
 
--pi 4.
+curl -sSL https://git.io/JEiR7 | bash
+ 
 
--micro sd.
+It will install everything for you including the default mugen .
 
--keyboard.
 
--usb mouse.
+*How to add mugens?
 
--pc to burn/etch sd card.
+-open pixel desktop
 
-Alright let's get started .
+-move mugens to home/pi/retropie/roms/wine/games 
 
-1.Download os of choice.
+-copy and paste mugen.sh in same location 
 
-2.Update system  with following commands 
+-rename file to your mugens name. 
 
-sudo apt-get update
+-open .sh file with text editor 
 
-sudo apt-get full-upgrade
+-change file paths on cd line and winedebug line to your mugen location .
 
-If you know this will mess your build up don't do it .
+cd line is folder of your mugen example
+ 
+cd" home/pi/retropie/roms/wine/games/mugen2"
+ 
+winedebug line is file exe location example 
 
-3.Install Pixel
+WINEDEBUG.............'home/pi/retropie/roms/wine/games/mugen2/mugen.exe'
 
-If this is a new retropie os do basic install first .
+-save file and exit 
 
-Go to retropie setup/configurations&tools/raspbiantools/install pixel 
-
-4.Install Georges retropi setup extras
-
-open pixel desktop 
-
-open terminal type
-
-git clone --branch emulator https://github.com/GeorgeMcMullen/rp-box86wine /home/pi/RetroPie-Setup/ext/rp-box86wineemu/
-
-After completion of above script 
-
-In terminal type 
-
-emulationstation 
-
-work like this for now .
-
-5.Update RetroPie-Setup and install scripts
-
-In retropie menu go to retropie-setup
-
-Launch RetroPie Setup, update retropie setup, then go to "Manage Packages". Then run these scripts in this order:
-
-dependencies/mesa
-
-experimental/box86
-
-experimental/wine
-
-6.Reboot your system and test wine/box86
-
-Reboot your system in retropie menu or pixel .
-
-After reboot you should see a wine category with Wine Desktop in it.
-
-Click on Wine Desktop. If wine doesn't launch Mugen wont.
-
-Exit wine desktop by clicking start then run then type "shutdown" and press ok or enter.
-
-7. Replace Wine Desktop.sh 
-
-Replace wine desktop.sh with the one in this github .
-
-After you replace rename from Wine Desktop.sh to WineDesktop.sh
-
-Then in terminal run
-
-chmod +x /home/pi/RetroPie/roms/wine/WineDesktop.sh
-
-Then rename from WineDesktop.sh to Wine Desktop.sh
-
-Retest wine desktop .
-
-8.Move Mugens to pi 
-
-move games to /home/RetroPie/roms/wine/games This can be done many ways pixel desktop and midnight commander to name a few
-
-9. Make Game Launch script
-
-Use the shell script method. in terminal type
-
-sudo nano /home/pi/RetroPie/roms/wine/mugennamehere.sh
-
-replace mugennamehere with your mugens name .
-
-copy following into your new .sh 
-
-#!/bin/bash
-
-xset -dpms s off s noblank
-
-cd "/home/pi/RetroPie/roms/wine/games/yourmugenfolder/"
-
-matchbox-window-manager &
-
-qjoypad "mugen" &
-
-WINEDEBUG=-all LD_LIBRARY_PATH="/opt/retropie/supplementary/mesa/lib/" setarch linux32 -L /opt/retropie/emulators/wine/bin/wine '/home/pi/RetroPie/roms/wine/games/yourmugenfolder/mugennamehere.EXE'
-
-Another example 
-
-#!/bin/bash
-
-cd"/home/pi/Retropie/roms/wine/games/yourmugenfolder"
-
-qjoypad "mugen" &
-
-WINEDEBUG=-all LD_LIBRARY_PATH="/opt/retropie/supplementary/mesa/lib/" setarch linux32 -L /opt/retropie/emulators/wine/bin/wine '/home/pi/RetroPie/roms/wine/games/yourmugenfolder/mugennamehere.EXE'
-
-Easiest way to get paths for mugens is right click your exe and copy paths .
-
-Then replace "home/pi.......yourmugenfolder/" on cd line above. with your paths to folder containing exe.
-
-Then replace 'home/pi......mugennamehere.exe' on wine line with your paths to exe .
-
-Exit nano with control+X then control+Y this saves your new .sh script.
-
-10.Install qjoypad
-
-If your not in pixel open it. Then install Qjoypad with
-
-sudo apt-get install qjoypad
-
-11.Create a controller layout for mugen. 
-
-Open qjoypad and make a layout called mugen. then map your controllers to buttons you wanna use in mugen. when you open mugen match these buttons.
-Make sure you map escape key .
-
-12.Open mugen config in yourmugen/data/mugen.cfg most the time .
-
-then find and change the followinfor best performance .
-
--Allowdebugmode = 1
-
--Allowdebugkeys = 1.
-
--Video Settings
-
-     Width = 1280
-
-     Height = 720
-
--Fullscreen = 1
-
--Rendermode = OpenGL
-
--Blitmode = Normal
-
--Joystick input for both players =0
-
--Keep AspectRatio=1
-
-13.Reboot To refresh the system 
-
-Open terminal type sudo reboot .
-
-14.Launch mugen 
-
-If you made your .sh correct your mugen should appear under wine. Click play on it like any other game .
-
-15.Map mugen controls to match qjoypad.
-
-Best way is to leave your keyboard hooked up. Then go to input config in mugen, then f1 for player 1, then use your controller to map the button. 
-
-16.Save your config in mugen menu .
-
-17.Enjoy !!! 
-
-
+-optimize your data/mugen.cfg if necessary .
+ 
+ Remeber this is a low end pc.
 
 
 
@@ -201,8 +58,6 @@ Frequently Asked Questions.
 - https://www.mugendb.com/
 
 - https://www.mugenation.it/category/mugen-full-games/
-
--Soon the Retro Devils will have a install script for mugens to download from our mediafire .
 
 
 
