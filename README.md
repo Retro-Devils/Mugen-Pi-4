@@ -122,13 +122,15 @@ https://twisteros.com
 
 Props/Credits
 
+Supreme Retropie Team.
+
 Box86.
 
 Wine.
 
 Retropie.
 
-Pi Labs 
+Pi Labs.
 
 Mugen.
 
