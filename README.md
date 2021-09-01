@@ -120,6 +120,9 @@ Pi Labs/Twister OS
 https://twisteros.com
 
 
+Supreme Pi Github
+https://github.com/SupremePi
+
 
 
 *##Props/Credits##*
