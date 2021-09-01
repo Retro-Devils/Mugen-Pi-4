@@ -99,7 +99,7 @@ This is community made and maintained . Hopefully soon RetroPie/Raspberry Pi wil
 
 
 
-Sources 
+*##Sources##*
 
 Box86 Github 
 https://github.com/ptitSeb/box86
@@ -120,7 +120,9 @@ Pi Labs/Twister OS
 https://twisteros.com
 
 
-Props/Credits
+
+
+*##Props/Credits##*
 
 Supreme Retropie Team.
 
