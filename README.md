@@ -30,11 +30,11 @@ It will install everything for you including the default mugen .
 
 cd line is folder of your mugen example
  
-cd" home/pi/retropie/roms/wine/games/mugen2"
+cd "home/pi/retropie/roms/wine/games/mugen2"
  
-winedebug line is file exe location example 
+winedebug line is file exe location  in v2 of installer it simplifies the winedebug line to wine example 
 
-WINEDEBUG.............'home/pi/retropie/roms/wine/games/mugen2/mugen.exe'
+wine 'home/pi/retropie/roms/wine/games/mugen2/mugen.exe'
 
 -save file and exit 
 
@@ -42,11 +42,17 @@ WINEDEBUG.............'home/pi/retropie/roms/wine/games/mugen2/mugen.exe'
  
  Remeber this is a low end pc.
 
+Example .sh file 
+
+#!/bin/bash
+xset no blank
+cd "home/pi/RetroPie/roms/wine/games/mugen2"
+qjoypad "mugen" &
+wine home/pi/RetroPie/roms/wine/games/mugen2/mugen.exe 
+
 
 
 Frequently Asked Questions.
-
-
 
 *Where/how do I get mugens?
 
