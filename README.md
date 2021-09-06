@@ -45,9 +45,13 @@ wine 'home/pi/retropie/roms/wine/games/mugen2/mugen.exe'
 Example .sh file 
 
 #!/bin/bash
+
 xset no blank
+
 cd "home/pi/RetroPie/roms/wine/games/mugen2"
+
 qjoypad "mugen" &
+
 wine home/pi/RetroPie/roms/wine/games/mugen2/mugen.exe 
 
 
