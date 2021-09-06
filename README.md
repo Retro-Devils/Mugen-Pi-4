@@ -96,10 +96,7 @@ Make sure to change all the mugens you add controls in and mugen.cfg file or in 
 
 *Why didn't this work on my/pre-made retropie?
 
--Some builds already have box86 and wine installed example Twister Os.
-With twister you'll have to find thier wine and direct to it in the shell script game launch script.
-
--Audio issue have been reported on one build with no pulse audio. 
+-If using Supreme use thier installer not this one . 
 
 -A very uncommon external Hdd issue has been seen. Where wine and box86 don't work with a hdd plugged in. We have not experienced this on the 6 builds we tested on. Only been reported one time.
 
