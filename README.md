@@ -8,7 +8,7 @@ Thanks to working with Supreme team we have made a one line installer .
 
 Open terminal type 
 
-curl -sSL https://git.io/JuYpW | bash
+curl -sSL https://git.io/JusKp | bash
  
 
 It will install everything for you including the default mugen .
