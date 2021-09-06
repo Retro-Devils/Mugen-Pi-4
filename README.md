@@ -1,10 +1,14 @@
 # Mugen-Pi-4
 
+UPDATE SEPTEMBER 6, 2021
+
+*updated installer v2
+
 Thanks to working with Supreme team we have made a one line installer .
 
 Open terminal type 
 
-curl -sSL https://git.io/JEiR7 | bash
+curl -sSL https://git.io/JuYpW | bash
  
 
 It will install everything for you including the default mugen .
