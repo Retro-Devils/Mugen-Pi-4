@@ -1,6 +1,6 @@
 # Mugen-Pi-4
 
-UPDATE October 1, 2021
+- UPDATEDOctober 1, 2021
 
 # Updated Installer v3
 
@@ -38,13 +38,13 @@ If you don't know select mugem with all updates .
 
 - Return to Retropie then restart emulation station . 
 
--If successful your game should be under wine/gamefoldername/ in retropie.
+- If successful your game should be under wine/gamefoldername/ in retropie.
 
 # Frequently Asked Questions.
 
 # Where/how do I get mugens?
 
--Heres a few sources for mugen and info.
+- Heres a few sources for mugen and info.
 
 - https://mugen.fandom.com/wiki/M.U.G.E.N
 
