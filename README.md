@@ -1,11 +1,12 @@
 # Mugen-Pi-4
 
-- UPDATEDOctober 1, 2021
+- UPDATED October 1, 2021
 
-# Updated Installer v3
+# Updated Installer  to V3
 
-Thanks to working with Supreme team we have made a one line installer .
-*Edit V3 is 90% Supremes work. 
+- Thanks to working with Supreme team we have made a one line installer .
+
+- V3 is 90% Supremes work. 
 
 # V3 is a MAJOR UPDATE . 
 
