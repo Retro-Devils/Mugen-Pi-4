@@ -16,14 +16,14 @@
   
 # To Install 
 
-- Open terminal type (press f4 in retropie) 
+- Open terminal (press f4 in retropie) type
 
 curl -sSL https://git.io/Jz9O3 | bash
  
 - Depending on your build and what you have/want installed select your option.
 If you don't know select mugem with all updates .
 
-- Go get a coffee this willxtake some time .
+- Go get a coffee/cigarette/drink this will take some time
 
 - If successful it will return to retropie with a new wine category , with default mugen inside of it .
 
