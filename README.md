@@ -9,11 +9,13 @@ Thanks to working with Supreme team we have made a one line installer .
 
 V3 is a MAJOR UPDATE . 
 
--no more scripts it directly launches exes from retropie.
+  -no more scripts it directly launches exes from retropie.
 
--qjoypad auto loads layout with same name as exe.
+  -qjoypad auto loads layout with same name as exe.
+  
+*To Install *
 
-Open terminal type 
+Open terminal type (press f4 in retropie) 
 
 curl -sSL https://git.io/Jz9O3 | bash
  
