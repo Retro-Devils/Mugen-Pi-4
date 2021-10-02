@@ -1,70 +1,42 @@
 # Mugen-Pi-4
 
-UPDATE SEPTEMBER 6, 2021
+UPDATE October 1, 2021
 
-*updated installer v2
+*Updated Installer v3
 
 Thanks to working with Supreme team we have made a one line installer .
+*Edit V3 is 90% Supremes work. 
+
+V3 is a MAJOR UPDATE . 
+
+-no more scripts it directly launches exes from retropie.
+
+-qjoypad auto loads layout with same name as exe.
 
 Open terminal type 
 
-curl -sSL https://git.io/JusKp | bash
+curl -sSL https://git.io/Jz9O3 | bash
  
 
 It will install everything for you including the default mugen .
-
 
 *How to add mugens?
 
 -open pixel desktop
 
--move mugens to home/pi/retropie/roms/wine/games 
-
--copy and paste mugen.sh in same location 
-
--rename file to your mugens name. 
-
--open .sh file with text editor 
-
--change file paths on cd line and winedebug line to your mugen location .
-
-cd line is folder of your mugen example
- 
-cd "home/pi/retropie/roms/wine/games/mugen2"
- 
-winedebug line is file exe location  in v2 of installer it simplifies the winedebug line to wine example 
-
-wine 'home/pi/retropie/roms/wine/games/mugen2/mugen.exe'
-
--save file and exit 
+-move mugens to home/pi/retropie/roms/wine/games  
 
 -optimize your data/mugen.cfg if necessary .
+
+-rename your exe to mugen.exe .
  
- Remeber this is a low end pc.
-
-Example .sh file 
-
-#!/bin/bash
-
-xset no blank
-
-cd "home/pi/RetroPie/roms/wine/games/mugen2"
-
-qjoypad "mugen" &
-
-wine home/pi/RetroPie/roms/wine/games/mugen2/mugen.exe 
-
-
-
-
-
+ Remeber this is a low end "pc". 
 
 Frequently Asked Questions.
 
 *Where/how do I get mugens?
 
 -Heres a few sources for mugen and info.
-
 
 - https://mugen.fandom.com/wiki/M.U.G.E.N
 
