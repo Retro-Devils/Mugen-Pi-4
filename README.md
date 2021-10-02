@@ -121,20 +121,20 @@ Credit for link to pigamer
 
 # Props/Credits 
 
-# Supreme Retropie Team.
+- Supreme Retropie Team.
 
-# Box86.
+- Box86.
 
-# Wine.
+- Wine.
 
-# Retropie.
+- Retropie.
 
-# Pi Labs.
+- Pi Labs.
 
-# Mugen.
+- Mugen.
 
-# Pi foundation.
+- Pi foundation.
 
-# George McMullen.
+- George McMullen.
 
-# Crash Cortez.
+- Crash Cortez.
