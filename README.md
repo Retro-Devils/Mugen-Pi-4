@@ -60,62 +60,62 @@ If you don't know select mugem with all updates .
 
 # Which Mugens work?
 
--Mugen 1.0 works best some 1.1 work. We have been unsuccessful with winmugen.
+- Mugen 1.0 works best some 1.1 work. We have been unsuccessful with winmugen.
 
 
 
 # Why/whats debug key ?
 
--Debug key is control+d. Allows you to see fps and info in bottom left of screen .
+- Debug key is control+d. Allows you to see fps and info in bottom left of screen .
 
 
 # Why didn't controls work for "Mugen 2" ?
 
-Make sure to change all the mugens you add controls in and mugen.cfg file or in game.
+- Make sure to change all the mugens you add controls in and mugen.cfg file or in game.
 
 
 # Why didn't this work on my/pre-made retropie?
 
--If using Supreme use thier installer not this one . 
+- If using Supreme use thier installer not this one . 
 
--A very uncommon external Hdd issue has been seen. Where wine and box86 don't work with a hdd plugged in. We have not experienced this on the 6 builds we tested on. Only been reported one time.
+- A very uncommon external Hdd issue has been seen. Where wine and box86 don't work with a hdd plugged in. We have not experienced this on the 6 builds we tested on. Only been reported one time.
 
 # Wanna try a different way ?
 
--https://thepigamer.blogspot.com/2021/06/making-xwindow-wine-and-box86-work.html
+- https://thepigamer.blogspot.com/2021/06/making-xwindow-wine-and-box86-work.html
 
 Credit for link to pigamer
 
 
 # How did we do this? 
 
-This is community made and maintained . Hopefully soon RetroPie/Raspberry Pi will use wine/box86.  George McMullen has a pull request in Retropie github.
+- This is community made and maintained . Hopefully soon RetroPie/Raspberry Pi will use wine/box86.  George McMullen has a pull request in Retropie github.
 
 
 
  ### Sources
 
 # Box86 Github 
-https://github.com/ptitSeb/box86
+- https://github.com/ptitSeb/box86
 
 # Retropie Github 
-https://github.com/retropie
+- https://github.com/retropie
 
 # Mugen 
-Can be found many places. Orginal website is down.
+- Can be found many places. Orginal website is down.
 
 # Georges Github 
-https://github.com/GeorgeMcMullen/rp-box86wine
+- https://github.com/GeorgeMcMullen/rp-box86wine
 
 # Retropie Box86 Forum 
-https://retropie.org.uk/forum/topic/28528/box86-and-wine-on-rpi4/358
+- https://retropie.org.uk/forum/topic/28528/box86-and-wine-on-rpi4/358
 
 # Pi Labs/Twister OS
-https://twisteros.com
+- https://twisteros.com
 
 
 # Supreme Pi Github
-https://github.com/SupremePi
+- https://github.com/SupremePi
 
 
 
