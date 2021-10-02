@@ -9,30 +9,36 @@ Thanks to working with Supreme team we have made a one line installer .
 
 # V3 is a MAJOR UPDATE . 
 
-  - no more scripts it directly launches exes from retropie.
+  - No more scripts it directly launches exes from retropie.
 
-  - qjoypad auto loads layout with same name as exe.
+  - Qjoypad auto loads layout with same name as exe.
   
 # To Install 
 
-Open terminal type (press f4 in retropie) 
+- Open terminal type (press f4 in retropie) 
 
 curl -sSL https://git.io/Jz9O3 | bash
  
+- Depending on your build and what you have/want installed select your option.
+If you don't know select mugem with all updates .
 
-It will install everything for you including the default mugen .
+- Go get a coffee this willxtake some time .
+
+- If successful it will return to retropie with a new wine category , with default mugen inside of it .
 
 # How to add mugens?
 
--open pixel desktop
+- Open pixel desktop
 
--move mugens to home/pi/retropie/roms/wine/games  
+- Move mugens to home/pi/retropie/roms/wine/games  
 
--optimize your data/mugen.cfg if necessary .
+- Optimize your data/mugen.cfg if necessary .
 
--rename your exe to mugen.exe .
- 
- Remeber this is a low end "pc". 
+- Rename your exe to mugen.exe .
+
+- Return to Retropie then restart emulation station . 
+
+-If successful your game should be under wine/gamefoldername/ in retropie.
 
 # Frequently Asked Questions.
 
