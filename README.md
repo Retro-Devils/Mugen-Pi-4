@@ -79,7 +79,11 @@ If you don't know select mugem with all updates .
 
 - If using Supreme use thier installer not this one . 
 
-- A very uncommon external Hdd issue has been seen. Where wine and box86 don't work with a hdd plugged in. We have not experienced this on the 6 builds we tested on. Only been reported one time.
+- If you have wine,box86, and mesa installed remove them then try again.
+
+- Wine doesn't function correctly in a  64 bit os atm.
+
+- Feel free to contact us or put in a error/pull request .
 
 # Wanna try a different way ?
 
