@@ -41,6 +41,30 @@ If you don't know select mugem with all updates .
 
 - If successful your game should be under wine/games/mugenfoldername/ in retropie.
 
+
+# How to configure controls?
+
+- Open pixel desktop 
+
+- Go to menu/games . Then click qjoypad . 
+
+- Click on qjoypad icon in system tray .
+
+- Click add layout .
+
+- Name layout same as exe name . example want mugen controls name mugen then name mugen exes mugen.exe. THIS IS CASE SENSITIVE. 
+
+- Click quick set .
+
+- Press button want to map then button your mapping to.  Example want a button to be left click, press a then left click. 
+
+- Repeat this for all buttons you want mapped .
+
+- When finished click save . 
+
+- Go back to retropie. Restart es and load game .
+
+
 # Frequently Asked Questions.
 
 # Where/how do I get mugens?
