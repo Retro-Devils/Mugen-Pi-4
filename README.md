@@ -27,6 +27,11 @@ If you don't know select mugem with all updates .
 
 - If successful it will return to retropie with a new wine category , with default mugen inside of it .
 
+# For your Info 
+
+- This installer install wine and box86 . 
+
+- This installer can used to play a bunch of old windows games. 
 
 # Frequently Asked Questions 
 
@@ -145,6 +150,11 @@ Select-escape.  Select-escape
 
 Credit for link to pigamer
 
+# What other games work ? 
+
+-A bunch heres a list on retropie forum.Differwnt method same results, emus etc.
+
+https://retropie.org.uk/forum/topic/29241/the-which-games-works-with-box86-wine-topic-on-the-retropie-rpi4-400
 
 # How did we do this? 
 
