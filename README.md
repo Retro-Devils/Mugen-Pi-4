@@ -1,6 +1,6 @@
 # Mugen-Pi-4
 
-- UPDATED October 1, 2021
+- UPDATED October 11, 2021
 
 # Updated Installer  to V3
 
@@ -39,7 +39,7 @@ If you don't know select mugem with all updates .
 
 - Return to Retropie then restart emulation station . 
 
-- If successful your game should be under wine/gamefoldername/ in retropie.
+- If successful your game should be under wine/games/mugenfoldername/ in retropie.
 
 # Frequently Asked Questions.
 
@@ -74,14 +74,18 @@ If you don't know select mugem with all updates .
 
 - Make sure to change all the mugens you add controls in and mugen.cfg file or in game.
 
+-If your exe name is not mugen.exe . Qjoyoad will not load mugen layout to map your. ontroller to keyboard buttons. 
+
 
 # Why didn't this work on my/pre-made retropie?
 
-- If using Supreme use thier installer not this one . 
+- If using Supremes image use thier installer not this one . 
 
 - If you have wine,box86, and mesa installed remove them then try again.
 
 - Wine doesn't function correctly in a  64 bit os atm.
+
+- You have to RetroPie installed for this to work .
 
 - Feel free to contact us or put in a error/pull request .
 
@@ -96,6 +100,7 @@ Credit for link to pigamer
 
 - This is community made and maintained . Hopefully soon RetroPie/Raspberry Pi will use wine/box86.  George McMullen has a pull request in Retropie github.
 
+-With V3 major props to Supreme Retro Gaming . They worked hard and made it so much better. 
 
 # Sources
 
@@ -125,7 +130,7 @@ Credit for link to pigamer
 
 # Props/Credits 
 
-- Supreme Retropie Team.
+- Supreme Retro Gaming Team.
 
 - Box86.
 
