@@ -49,6 +49,19 @@ If you don't know select mugem with all updates .
 
 - If successful your game should be under wine/games/mugenfoldername/ in retropie.
 
+# How to add old Windows games ? 
+
+- Open pixel desktop
+
+- Move games folder to home/pi/retropie/roms/wine/games
+
+- Make a qjoypad layout for your game described below . 
+
+- Reboot system . 
+
+- Your game should now be in wine/games . 
+
+- If done correct qjoypad will autoload your layout 
 
 # How do i configure controls? (for games other than mugen) 
 
