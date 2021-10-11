@@ -33,6 +33,8 @@ If you don't know select mugem with all updates .
 
 - This installer can used to play a bunch of old windows games. 
 
+- Optimization of Wine emu is possible will add a better performance area soon .
+
 # Frequently Asked Questions 
 
 # How to add mugens?
@@ -143,7 +145,6 @@ Select-escape.  Select-escape
 - Make sure to change all the mugens you add controls in and mugen.cfg file or in game.
 
 -If your exe name is not mugen.exe . Qjoyoad will not load mugen layout to map your. ontroller to keyboard buttons. 
-
 
 # Why didn't this work on my/pre-made retropie?
 
