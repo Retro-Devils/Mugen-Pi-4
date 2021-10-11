@@ -29,7 +29,7 @@ If you don't know select mugem with all updates .
 
 # For your Info 
 
-- This installer install wine and box86 . 
+- This installer installs wine and box86 . 
 
 - This installer can used to play a bunch of old windows games. 
 
