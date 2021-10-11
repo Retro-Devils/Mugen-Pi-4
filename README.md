@@ -27,6 +27,9 @@ If you don't know select mugem with all updates .
 
 - If successful it will return to retropie with a new wine category , with default mugen inside of it .
 
+
+# Frequently Asked Questions 
+
 # How to add mugens?
 
 - Open pixel desktop
@@ -42,7 +45,7 @@ If you don't know select mugem with all updates .
 - If successful your game should be under wine/games/mugenfoldername/ in retropie.
 
 
-# How to configure controls?
+# How do i configure controls? (for games other than mugen) 
 
 - Open pixel desktop 
 
@@ -64,8 +67,31 @@ If you don't know select mugem with all updates .
 
 - Go back to retropie. Restart es and load game .
 
+# How do I config controls for new/added mugen? 
 
-# Frequently Asked Questions.
+- Open pixel
+
+- Find and rename you exe to mugen.exe.
+
+- If controller is different than ps3 style. Follow above config just edit mugen layout. 
+
+- With keyboard attached open mugen in retropie . 
+
+- Match this controls below and turn off joysticks. This is what included mugen layout is trying to do . 
+
+player 1.       player 2. 
+up-w.           up-up
+down-s.         down-down
+left-a.         left-left
+right-d.        right-right
+A-i.            A-1
+B-o.            B-2
+C-p.            C-3
+X-j.            X-4
+Y-k.            Y-5
+Z-l.            Z-6
+Start-enter.    Start-right enter
+Select-escape.  Select-escape 
 
 # Where/how do I get mugens?
 
