@@ -197,7 +197,7 @@ https://retropie.org.uk/forum/topic/29241/the-which-games-works-with-box86-wine-
 - https://twisteros.com
 
 
-# Supreme Pi Github
+# Supreme Retro Gaming Github
 - https://github.com/SupremePi
 
 
