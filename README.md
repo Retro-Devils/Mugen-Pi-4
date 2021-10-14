@@ -65,7 +65,7 @@ If you don't know select mugem with all updates .
 
 - If done correct qjoypad will autoload your layout 
 
-# How do i configure controls? (for games other than mugen) 
+# How do I configure controls? (for games other than mugen) 
 
 - Open pixel desktop 
 
@@ -132,6 +132,44 @@ Select-escape.  Select-escape
 # Which Mugens work?
 
 - Mugen 1.0 works best some 1.1 work. We have been unsuccessful with winmugen.
+
+Heres a list of working MUGENS. Assembled by co,munitions and retro devils .
+
+Hyper Comic Book Marvel vs Capcom Extreme Battle Royal
+
+Capcom vs SNK 2.5 Remix
+
+DC Universe
+
+DC Mugenation
+
+Heroes Collide
+
+Homem-Aranha Amigo Ou Inimigo (Spider-man Friend or Foe)
+Spiderman Fight Night
+Hyper Dragonball Z
+Jojo's Bizzare Adventure Requiem
+King of Fighters Old School
+Kingdom Hearts
+King of Fighters Alpha V1
+King of Fighters Alpha V2
+King of Fighters Memorial Special Edition
+Marvel vs Capcom All Generations
+Marvel vs Capcom Origins
+Marvel vs Capcom vs SNK Screenpack 1.0 (Full Game)
+Multiverse Cross Generation of Fighters
+Marvel vs Capcom Clash of Superheroes
+Meltyblood vs Darkstalkers
+Metal Slug
+Mortal Kombat 11
+Mortal Kombat Special Edition
+Ninja Master Heat
+Super Smash Bros.
+Super Smash Bros. Clash
+Super Fighter Team
+Super V.G.
+The Black Heart
+Darkstalkers Jedah's Damnation
 
 
 
