@@ -1,6 +1,6 @@
 # Mugen-Pi-4
 
-- UPDATED October 11, 2021
+- UPDATED October 15, 2021
 
 # Updated Installer  to V3
 
@@ -34,6 +34,8 @@ If you don't know select mugem with all updates .
 - This installer can used to play a bunch of old windows games. 
 
 - Optimization of Wine emu is possible will add a better performance area soon .
+
+-Included files in this github with lyt extensions are qjoypad layouts .  Configured with a ps3 style controller . Will update every now and then . 
 
 # Frequently Asked Questions 
 
