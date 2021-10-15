@@ -133,139 +133,143 @@ Select-escape.  Select-escape
 
 - Mugen 1.0 works best some 1.1 work. We have been unsuccessful with winmugen.
 
-Heres a list of working MUGENS. Assembled by co,munitions and retro devils. If you see double tested by two or more people/teams.
+**Heres a list of working MUGENS. Sourced from  RetroPie community and Retro Devils. Mainly from RetroPie forum. If you see double if was  tested by two or more people/teams.
 
-Gamer007s Mugen list:
+**Gamer007s Mugen list:
 
-Hyper Comic Book Marvel vs Capcom Extreme Battle Royal
+-Hyper Comic Book Marvel vs Capcom Extreme Battle Royal
 
-Capcom vs SNK 2.5 Remix
+-Capcom vs SNK 2.5 Remix
 
-DC Universe
+-DC Universe
 
-DC Mugenation
+-DC Mugenation
 
-Heroes Collide
+-Heroes Collide
 
-Homem-Aranha Amigo Ou Inimigo (Spider-man Friend or Foe)
+-Homem-Aranha Amigo Ou Inimigo (Spider-man Friend or Foe)
 
-Spiderman Fight Night
+-Spiderman Fight Night
 
-Hyper Dragonball Z
+-Hyper Dragonball Z
 
-Jojo's Bizzare Adventure Requiem
+-Jojo's Bizzare Adventure Requiem
 
-King of Fighters Old School
+-King of Fighters Old School
 
-Kingdom Hearts
+-Kingdom Hearts
 
-King of Fighters Alpha V1
+-King of Fighters Alpha V1
 
-King of Fighters Alpha V2
+-King of Fighters Alpha V2
 
-King of Fighters Memorial Special Edition
+-King of Fighters Memorial Special Edition
 
-Marvel vs Capcom All Generations
+-Marvel vs Capcom All Generations
 
-Marvel vs Capcom Origins
+-Marvel vs Capcom Origins
 
-Marvel vs Capcom vs SNK Screenpack 1.0 (Full Game)
+-Marvel vs Capcom vs SNK Screenpack 1.0 (Full Game)
 
-Multiverse Cross Generation of Fighters
+-Multiverse Cross Generation of Fighters
 
-Marvel vs Capcom Clash of Superheroes
+-Marvel vs Capcom Clash of Superheroes
 
-Meltyblood vs Darkstalkers
+-Meltyblood vs Darkstalkers
 
-Metal Slug
+-Metal Slug
 
-Mortal Kombat 11
+-Mortal Kombat 11
 
-Mortal Kombat Special Edition
+-Mortal Kombat Special Edition
 
-Ninja Master Heat
+-Ninja Master Heat
 
-Super Smash Bros.
+-Super Smash Bros.
 
-Super Smash Bros. Clash
+-Super Smash Bros. Clash
 
-Super Fighter Team
+-Super Fighter Team
 
-Super V.G.
+-Super V.G.
 
-The Black Heart
+-The Black Heart
 
-Darkstalkers Jedah's Damnation
+-Darkstalkers Jedah's Damnation
 
-Various People:
+**Various People:
 
-Dark Stalkers  vs Street Fighter 
+-Dark Stalkers  vs Street Fighter 
 
-DC vs Marvel 
+-DC vs Marvel 
 
-Disney Edition 
+-Disney Edition 
 
-Disney vs Capcom 
+-Disney vs Capcom 
 
-Dragon Ball Z Fury Budokai 
+-Dragon Ball Z Fury Budokai 
 
-Famicom Fighters 
+-Famicom Fighters 
 
-Gundam Wing 
+-Gundam Wing 
 
-Heroes 
+-Heroes 
 
-Infinity M Battle 
+-Infinity M Battle 
 
-JoJos Bizarre Adventure 
+-JoJos Bizarre Adventure 
 
-Justice League Task Force 
+-Justice League Task Force 
 
-King of Fighters '98 
+-King of Fighters '98 
 
-Kirby Dean Battle 
+-Kirby Dean Battle 
 
-Marvel Fighting Tournament 
+-Marvel Fighting Tournament 
 
-Marvel vs Avengers 
+-Marvel vs Avengers 
 
-Marvel vs Capcom 
+-Marvel vs Capcom 
 
-Mega Man Robot Master Mayhem 
+-Mega Man Robot Master Mayhem 
 
-MK Remake Gore 
+-MK Remake Gore 
 
-MK Anthology 
+-MK Anthology 
 
-Nemesis Diamond Veal 
+-Nemesis Diamond Veal 
 
-Neo Geo Battle Collesium 
+-Neo Geo Battle Collesium 
 
-One Piece 
+-One Piece 
 
-Power Rangers 
+-Power Rangers 
 
-Queen of Fighters 
+-Queen of Fighters 
 
-Real Bout Fatal Fury 
+-Real Bout Fatal Fury 
 
-Resident Evil 
+-Resident Evil 
 
-Sonic Fighters 2 
+-Sonic Fighters 2 
 
-Street Fighter Alpha 4 
+-Street Fighter Alpha 4 
 
-Super Smah Bros 
+-Super Smah Bros 
 
-Super Heroes 2000 
+-Super Heroes 2000 
 
-The Black Heart 
+-The Black Heart 
 
-King of Fighters Super Nova 
+-King of Fighters Super Nova 
 
-Towers Compilation 
+-Towers Compilation 
 
-Transformer Mugen nation 
+-Transformer Mugen nation
+
+**Tested Windows Games 
+
+work in progress 
 
 # Why/whats debug key ?
 
