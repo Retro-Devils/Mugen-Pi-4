@@ -316,26 +316,26 @@ https://retropie.org.uk/forum/topic/29241/the-which-games-works-with-box86-wine-
 
 # Sources
 
-**Box86 Github 
+Box86 Github 
 - https://github.com/ptitSeb/box86
 
-**Retropie Github 
+Retropie Github 
 - https://github.com/retropie
 
-**Mugen 
+Mugen 
 - Can be found many places. Orginal website is down.
 
-**Georges Github 
+Georges Github 
 - https://github.com/GeorgeMcMullen/rp-box86wine
 
-**Retropie Box86 Forum 
+Retropie Box86 Forum 
 - https://retropie.org.uk/forum/topic/28528/box86-and-wine-on-rpi4/358
 
-**Pi Labs/Twister OS
+Pi Labs/Twister OS
 - https://twisteros.com
 
 
-**Supreme Retro Gaming Github
+Supreme Retro Gaming Github
 - https://github.com/SupremePi
 
 
