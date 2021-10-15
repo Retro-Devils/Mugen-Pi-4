@@ -35,7 +35,7 @@ If you don't know select mugem with all updates .
 
 - Optimization of Wine emu is possible will add a better performance area soon .
 
--Included files in this github with lyt extensions are qjoypad layouts .  Configured with a ps3 style controller . Will update every now and then . 
+- Included files in this github with lyt extensions are qjoypad layouts .  Configured with a ps3 style controller . Will update every now and then . 
 
 # Frequently Asked Questions 
 
