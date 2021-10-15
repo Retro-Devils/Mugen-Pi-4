@@ -282,7 +282,7 @@ work in progress
 
 - Make sure to change all the mugens you add controls in and mugen.cfg file or in game.
 
--If your exe name is not mugen.exe . Qjoyoad will not load mugen layout to map your. ontroller to keyboard buttons. 
+- If your exe name is not mugen.exe . Qjoyoad will not load mugen layout to map your. ontroller to keyboard buttons. 
 
 # Why didn't this work on my/pre-made retropie?
 
