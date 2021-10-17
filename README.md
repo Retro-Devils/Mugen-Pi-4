@@ -137,7 +137,7 @@ Select-escape.  Select-escape
 
 **Heres a list of working MUGENS. Sourced from  RetroPie community and Retro Devils. Mainly from RetroPie forum. If you see double if was  tested by two or more people/teams.
 
-**Gamer007s Mugen list:
+----Gamer007s Mugen list----
 
 -Hyper Comic Book Marvel vs Capcom Extreme Battle Royal
 
@@ -199,7 +199,7 @@ Select-escape.  Select-escape
 
 -Darkstalkers Jedah's Damnation
 
-**Various People:
+----Various People----
 
 -Dark Stalkers  vs Street Fighter 
 
