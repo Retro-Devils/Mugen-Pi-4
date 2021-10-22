@@ -1,6 +1,6 @@
 # Mugen-Pi-4
 
-- UPDATED October 15, 2021
+- UPDATED October 22, 2021
 
 # Updated Installer  to V3
 
@@ -99,21 +99,58 @@ If you don't know select mugem with all updates .
 
 - With keyboard attached open mugen in retropie . 
 
-- Match this controls below and turn off joysticks. This is what included mugen layout is trying to do . 
+- Match this controls below and turn off joysticks. This is what included mugen layout is trying to do. A,B,C,X,Y etc are in mugen. 
 
-player 1.       player 2. 
-up-w.           up-up
-down-s.         down-down
-left-a.         left-left
-right-d.        right-right
-A-i.            A-1
-B-o.            B-2
-C-p.            C-3
-X-j.            X-4
-Y-k.            Y-5
-Z-l.            Z-6
-Start-enter.    Start-right enter
-Select-escape.  Select-escape 
+player 1:
+
+up-w
+
+down-s
+
+left-a
+
+right-d
+
+A-i 
+
+B-o   
+
+C-p  
+
+X-j  
+
+Y-k  
+
+Z-l  
+
+Start-enter
+
+Select-escape 
+
+Player 2:
+numbers are right side of keyboard  
+
+up-up
+
+down-down
+
+left-left
+
+right-right
+
+A-1
+
+B-2
+
+C-3
+
+X-4
+
+Y-5
+
+Z-6
+
+Start-right enter 
 
 # Where/how do I get mugens?
 
