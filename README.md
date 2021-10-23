@@ -42,9 +42,7 @@ If you don't know select mugem with all updates .
 
 - Go to wine/wine-apps then launch wine desktop . 
 
-- Let Wine update.
-
-- Install gecko and mono. It will prompt you . 
+- Let Wine update and install gecko and mono. It will prompt you . 
 
 # For your Info 
 
