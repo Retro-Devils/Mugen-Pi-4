@@ -95,11 +95,23 @@ If you don't know select mugem with all updates .
 
 - Find and rename you exe to mugen.exe.
 
-- If controller is different than ps3 style. Follow above config just edit mugen layout. 
+- If controller is different than ps3 style. Follow above controller conifg EXCEPT edit mugen layout. Don't forget a escape key . 
+
+- Remeber to click save .
 
 - With keyboard attached open mugen in retropie . 
 
-- Match this controls below and turn off joysticks. This is what included mugen layout is trying to do. A,B,C,X,Y etc are in mugen. 
+- Go to Options 
+
+- Turn Joysticks OFF for both players . 
+
+- Press F1 to map player 1. WITH YOUR CONTROLLER press the buttons you want . Click save 
+
+- Press F2 to map player 2, repeat above . 
+
+- Below is what included mugen layout is mapping to and what all mugens we upload and use will be set like. 
+
+A,B,C,X,Y etc are in mugen. 
 
 player 1:
 
