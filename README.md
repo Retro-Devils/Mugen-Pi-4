@@ -13,19 +13,38 @@
   - No more scripts it directly launches exes from retropie.
 
   - Qjoypad auto loads layout with same name as exe.
+
+# To install and setup you will need .
+
+- Internet connection.
+
+- A keyboard and have it set to your localization.
+
+- Joystick/controller/arcade buttons you want to use. 
+
+- A usb mouse.
+
   
 # To Install 
 
-- Open terminal (press f4 in retropie) type
+- Press f4 in retropie and  type
 
 curl -sSL https://git.io/Jz9O3 | bash
+
+- Press enter. A user interface should load. 
  
 - Depending on your build and what you have/want installed select your option.
 If you don't know select mugem with all updates .
 
 - Go get a coffee/cigarette/drink this will take some time
 
-- If successful it will return to retropie with a new wine category , with default mugen inside of it .
+- If successful it will return to retropie with a new wine category, with default mugen inside of it .
+
+- Go to wine/wine-apps then launch wine desktop . 
+
+- Let Wine update.
+
+- Install gecko and mono. It will prompt you . 
 
 # For your Info 
 
