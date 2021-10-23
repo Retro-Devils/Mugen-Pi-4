@@ -40,9 +40,19 @@ If you don't know select mugem with all updates .
 
 - If successful it will return to retropie with a new wine category, with default mugen inside of it .
 
-- Go to wine/wine-apps then launch wine desktop . 
+- Go to wine/wine-apps then launch wine config . 
 
 - Let Wine update and install gecko and mono. It will prompt you . 
+
+- Leave wine config open for  "optimize before playing" below.
+
+# Optimize before playing . (WIP)
+
+- Switch wine version to xp . 
+
+- Go to graphics, then turn off decorate window. NOT NECESSARY HELPS VERY FEW GAMES THAT DONT LAUNCH FROM RETROPIE. CAUSES NO HARM IF OFF THOUGH.
+
+- Close Wine Config. You will be taken back to retropie .
 
 # For your Info 
 
