@@ -80,6 +80,10 @@ If you don't know select mugem with all updates .
 
 - If successful your game should be under wine/games/mugenfoldername/ in retropie.
 
+-Want video instructions ? Here ya go .
+
+https://youtu.be/CBKyoicI_-Q
+
 # How to add old Windows games ? 
 
 - Open pixel desktop
