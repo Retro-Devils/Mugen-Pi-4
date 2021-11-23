@@ -40,11 +40,13 @@ If you don't know select mugem with all updates .
 
 - If successful it will return to retropie with a new wine category, with default mugen inside of it .
 
-- Go to wine/wine-apps then launch wine config . 
+- Go to wine/wine-apps then launch wine tricks.
 
 - Let Wine update and install gecko and mono. It will prompt you . 
 
-- Leave wine config open for  "optimize before playing" below.
+- Exit wine tricks from menu then
+
+- Open wine config in retropie menu to use "optimize before playing" below.
 
 # Optimize before playing . (WIP)
 
