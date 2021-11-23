@@ -122,78 +122,31 @@ https://youtu.be/CBKyoicI_-Q
 
 # How do I config controls for new/added mugen? 
 
+
+- Have a keyboard plugged in 
+
 - Open pixel
 
 - Find and rename you exe to mugen.exe.
 
-- If controller is different than ps3 style. Follow above controller conifg EXCEPT edit mugen layout. Don't forget a escape key . 
+- Click start/games/qjoypad . Then double click icon in tray . 
 
-- Remeber to click save .
+- Select mugen layout in qjoypad. Then click quick set .
+
+- Press the button you want to be escape then press escape. Then done. 
+
+- Repeat this for player 2.  .
 
 - With keyboard attached open mugen in retropie . 
 
 - Go to Options 
 
-- Turn Joysticks OFF for both players . 
+- Turn Joysticks ON for both players . 
 
-- Press F1 to map player 1. WITH YOUR CONTROLLER press the buttons you want . Click save 
+- Go to joystick config for player 1. Configure joystick. Repeat for player 2.
 
-- Press F2 to map player 2, repeat above . 
-
-- Below is what included mugen layout is mapping to and what all mugens we upload and use will be set like. 
-
-A,B,C,X,Y etc are in mugen. 
-
-player 1:
-
-up-w
-
-down-s
-
-left-a
-
-right-d
-
-A-i 
-
-B-o   
-
-C-p  
-
-X-j  
-
-Y-k  
-
-Z-l  
-
-Start-enter
-
-Select-escape 
-
-Player 2:
-numbers are right side of keyboard  
-
-up-up
-
-down-down
-
-left-left
-
-right-right
-
-A-1
-
-B-2
-
-C-3
-
-X-4
-
-Y-5
-
-Z-6
-
-Start-right enter 
+- Go back to options and save your configuration. 
+ 
 
 # Where/how do I get mugens?
 
