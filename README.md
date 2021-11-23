@@ -127,17 +127,19 @@ https://youtu.be/CBKyoicI_-Q
 
 - Have a keyboard plugged in 
 
-- Open pixel
+- Open pixe. (in retropie press f4 then type startx hit enter)
 
 - Find and rename you exe to mugen.exe.
 
-- Click start/games/qjoypad . Then double click icon in tray . 
+- Click start/games/qjoypad . Then double click qjoy icon(little blue controller) in tray . 
 
-- Select mugen layout in qjoypad. Then click quick set .
+- Select mugen layout in qjoypad. Click clear, then click quick set .
 
 - Press the button you want to be escape then press escape. Then done. 
 
-- Repeat this for player 2.  .
+- Repeat this for player 2. Then click update.  
+
+- Exit desktop and return to retropie . ( start/quit/exit-to-command-line then type emulationstation hit enter)
 
 - With keyboard attached open mugen in retropie . 
 
