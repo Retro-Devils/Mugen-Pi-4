@@ -34,6 +34,7 @@ curl -sSL https://git.io/Jz9O3 | bash
 - Press enter. A user interface should load. 
  
 - Depending on your build and what you have/want installed select your option.
+
 If you don't know select mugem with all updates .
 
 - Go get a coffee/cigarette/drink this will take some time
@@ -110,7 +111,7 @@ https://youtu.be/CBKyoicI_-Q
 
 - Click add layout .
 
-- Name layout same as exe name . example want mugen controls name mugen then name mugen exes mugen.exe. THIS IS CASE SENSITIVE. 
+- Name layout same as exe name . Example want mugen controls name mugen then name mugen exes mugen.exe. THIS IS CASE SENSITIVE. 
 
 - Click quick set .
 
@@ -341,7 +342,7 @@ Credit for link to pigamer
 
 # What other games work ? 
 
--A bunch heres a list on retropie forum.Differwnt method same results, emus etc.
+-A bunch heres a list on retropie forum. Different method same results, emus etc.
 
 https://retropie.org.uk/forum/topic/29241/the-which-games-works-with-box86-wine-topic-on-the-retropie-rpi4-400
 
