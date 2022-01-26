@@ -1,6 +1,6 @@
 # Mugen-Pi-4
 
-- UPDATED JanuaJanuary 25, 2022
+- UPDATED January 25, 2022
 
 # Updated Installer  to V3
 
