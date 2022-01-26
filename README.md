@@ -1,6 +1,6 @@
 # Mugen-Pi-4
 
-- UPDATED November 23, 2021
+- UPDATED JanuaJanuary 25, 2022
 
 # Updated Installer  to V3
 
@@ -26,6 +26,8 @@
 
   
 # To Install 
+
+# ATTENTION THIS MAY REQUIRE A "sudo full update" AND "sudo apt-update" FIRST.
 
 - Press f4 in retropie and  type
 
