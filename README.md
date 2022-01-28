@@ -108,53 +108,36 @@ https://youtu.be/CBKyoicI_-Q
 # How do I configure controls? (for games other than mugen) 
 
 - Open pixel desktop 
-
 - Go to menu/games . Then click qjoypad . 
-
 - Click on qjoypad icon in system tray .
-
 - Click add layout .
-
 - Name layout same as exe name . Example want mugen controls name mugen then name mugen exes mugen.exe. THIS IS CASE SENSITIVE. 
-
 - Click quick set .
-
 - Press button want to map then button your mapping to.  Example want a button to be left click, press a then left click. 
-
 - Repeat this for all buttons you want mapped .
-
 - When finished click save . 
-
 - Go back to retropie. Restart es and load game .
 
 # How do I config controls for new/added mugen? 
 
-
+*Direct exe launch
 - Have a keyboard plugged in 
-
-- Open pixe. (in retropie press f4 then type startx hit enter)
-
-- Find and rename you exe to mugen.exe.
-
-- Click start/games/qjoypad . Then double click qjoy icon(little blue controller) in tray . 
-
-- Select mugen layout in qjoypad. Click clear, then click quick set .
-
-- Press the button you want to be escape then press escape. Then done. 
-
-- Repeat this for player 2. Then click update.  
-
+- Open pixel. (in retropie press f4 then type startx hit enter)
+- Find and rename your mugens.exe exe to mugen.exe. 
 - Exit desktop and return to retropie . ( start/quit/exit-to-command-line then type emulationstation hit enter)
-
 - With keyboard attached open mugen in retropie . 
-
 - Go to Options 
-
-- Turn Joysticks ON for both players . 
-
-- Go to joystick config for player 1. Configure joystick. Repeat for player 2.
-
+- Turn Joysticks OFF for both players . 
+- Go to input config for player 1. 
+- Configure buttons with controller. Repeat for player 2.
 - Go back to options and save your configuration. 
+- *If you dont like the controls still follow steps below
+- Open pixel. (in retropie press f4 then type startx hit enter)
+- Click start/games/qjoypad . Then double click qjoy icon(little blue controller) in tray . 
+- Select mugen layout in qjoypad. Click clear, then click quick set .
+- Press the button you want to be escape then press escape. 
+- Repeat for all buttons youll use it mugen.
+- Repeat this for player 2. Then click update.  
  
 
 # Where/how do I get mugens?
