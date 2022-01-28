@@ -11,7 +11,8 @@
 # V3 is a MAJOR UPDATE . 
 
   - No more scripts(.sh) it directly launches exes from retropie.
-           Retropie will still see read and launch .sh  
+           
+           NOTE :Retropie will still see read and launch .sh  
            
   - Qjoypad auto loads layout with same name as exe.
 
