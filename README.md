@@ -1,6 +1,6 @@
 # Mugen-Pi-4
 
-- UPDATED January 25, 2022
+- UPDATED January 28, 2022
 
 # Updated Installer  to V3
 
@@ -10,8 +10,9 @@
 
 # V3 is a MAJOR UPDATE . 
 
-  - No more scripts it directly launches exes from retropie.
-
+  - No more scripts(.sh) it directly launches exes from retropie.
+           Retropie will still see read and launch .sh  
+           
   - Qjoypad auto loads layout with same name as exe.
 
 # To install and setup you will need .
@@ -258,7 +259,7 @@ https://youtu.be/CBKyoicI_-Q
 - Fallout 3
 - Fallout Tactics
 - Starcraft
-- WArcraft 3
+- Warcraft 3
 
 # Why/whats debug key ?
 
