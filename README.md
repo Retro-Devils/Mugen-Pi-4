@@ -239,16 +239,16 @@ https://youtu.be/CBKyoicI_-Q
 -Queen of Fighters 
 -Real Bout Fatal Fury 
 -Resident Evil 
--Sonic Fighters 2 
--Street Fighter Alpha 4 
--Super Smah Bros 
--Super Heroes 2000 
--The Black Heart 
--King of Fighters Super Nova 
--Towers Compilation 
--Transformer Mugen nation
+- Sonic Fighters 2 
+- Street Fighter Alpha 4 
+- Super Smah Bros 
+- Super Heroes 2000 
+- The Black Heart 
+- King of Fighters Super Nova 
+- Towers Compilation 
+- Transformer Mugen nation
 
-**Tested Windows Games 
+# Tested Windows Games 
 
 - Age Of Empires
 - Age of Empires 2
