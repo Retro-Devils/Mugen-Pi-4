@@ -27,7 +27,7 @@
   
 # To Install 
 
-# ATTENTION THIS MAY REQUIRE A "sudo full update" AND "sudo apt-update" FIRST.
+* ATTENTION THIS MAY REQUIRE A "sudo -y update" AND "sudo -y upgrade" 
 
 - Press f4 in retropie and  type
 
@@ -311,7 +311,10 @@ https://youtu.be/CBKyoicI_-Q
 
 **Tested Windows Games 
 
-work in progress 
+- Age Of Empires
+- Age of Empires 2
+- Fallout 
+- Fallout 3
 
 # Why/whats debug key ?
 
