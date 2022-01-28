@@ -89,7 +89,7 @@ If you don't know select mugem with all updates .
 
 https://youtu.be/CBKyoicI_-Q
 
-## How to add old Windows games ? 
+# How to add old Windows games ? 
 
 - Open pixel desktop
 
@@ -103,7 +103,7 @@ https://youtu.be/CBKyoicI_-Q
 
 - If done correct qjoypad will autoload your layout 
 
-## How do I configure controls? (for games other than mugen) 
+# How do I configure controls? (for games other than mugen) 
 
 - Open pixel desktop 
 
