@@ -1,22 +1,15 @@
 # Mugen-Pi-4
 
-- UPDATED January 28, 2022
+- UPDATED February 3, 2022
 
-# Updated Installer  to V3
+# Updating Installer soon to NEW AND IMPORVED VERSION 
 
-- Thanks to working with Supreme team we have made a one line installer .
+- The new version will be all The Devils 
 
-- V3 is 90% Supremes work. 
 
-# V3 is a MAJOR UPDATE . 
-
-  - No more scripts(.sh) it directly launches exes from retropie.
-           
-           NOTE :Retropie will still see and launch .sh  
-           
-  - Qjoypad auto loads layout with same name as exe.
-
-# To install and setup you will need .
+# V3 still works ....
+ 
+# To install v3 and setup you will need .
 
 - Internet connection.
 
