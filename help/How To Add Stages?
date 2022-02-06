@@ -1,0 +1,33 @@
+How To Add Stages from: https://www.wikihow.com/Add-Mugen-Characters
+
+______# Step 1 #______
+Download the stage files. Stages can usually be downloaded from the same places that you find character files. 
+Like the character files, stages typically come in ZIP or RAR format.
+
+______# Step 2 #______
+Open the downloaded file to see the stage files. Double-click the ZIP file or open the RAR file to see the contents. 
+Stages come with a DEF and an SFF file. There may also be an MP3 file if a soundtrack is included.
+
+______# Step 3 #______
+Move the DEF and SFF files into the .stages folder. You'll find this folder in your mugen folder.
+Move the MP3 file into the sound folder if the stage came with one.
+
+______# Step 4 #______
+Reopen the "select.def" file if you closed it. 
+You'll be adding the stage to your Stage Select screen, as well as assigning it to characters for Arcade Mode.
+The "select.def" file is located in the data folder.
+
+______# Step 5 #______
+Find the .[ExtraStages] section. This is where all of your downloaded stages are added.
+
+
+______# Step 6 #______
+Enter in the path to your new stage. Start a new line beneath the existing stages and type stages/stageName.def.
+
+______# Step 7 #______
+
+Assign a stage to a character for Arcade Mode. 
+If you want a certain character to always appear on a certain stage when encountered in Arcade Mode, you can add it to their character entry in the [Characters] section.
+Add a comma to the end of the character entry plus the path to the stage name. 
+For example, to set LINK_3D to always appear on the Castle.def stage, you would type LINK_3D, stages/Castle.def.
+Add the order of the character at the end of the entry. For example, LINK_3D, stages/Castle.def, order=3
