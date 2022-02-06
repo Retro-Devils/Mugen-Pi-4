@@ -1,0 +1,26 @@
+# QJoyPad 4.1 Layout File
+
+Joystick 1 {
+	Axis 1: +key 40, -key 38
+	Axis 2: +key 39, -key 25
+	Button 1: key 65
+	Button 2: mouse 1
+	Button 3: mouse 3
+	Button 4: key 62
+	Button 5: key 67
+	Button 9: key 9
+	Button 10: key 36
+}
+
+Joystick 3 {
+	Axis 1: +key 40, -key 38
+	Axis 2: +key 39, -key 25
+	Button 1: key 25
+	Button 2: key 65
+	Button 3: key 50
+	Button 4: mouse 3
+	Button 6: mouse 1
+	Button 9: key 9
+	Button 10: key 36
+}
+

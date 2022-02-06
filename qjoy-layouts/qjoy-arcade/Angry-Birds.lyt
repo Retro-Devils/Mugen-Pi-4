@@ -1,0 +1,8 @@
+# QJoyPad 4.1 Layout File
+
+Joystick 1 {
+	Axis 4: mouse+h
+	Axis 5: mouse+v
+	Button 10: key 36
+}
+

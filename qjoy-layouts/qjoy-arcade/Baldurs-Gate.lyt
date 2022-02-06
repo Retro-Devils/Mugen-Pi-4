@@ -1,0 +1,71 @@
+# QJoyPad 4.1 Layout File
+
+Joystick 1 {
+	Axis 1: gradient, maxSpeed 2, mouse+h
+	Axis 2: gradient, maxSpeed 2, tCurve 0, mouse+v
+	Axis 3: gradient, maxSpeed 2, tCurve 0, mouse+v
+	Axis 4: gradient, maxSpeed 2, mouse+h
+	Axis 5: gradient, maxSpeed 2, tCurve 0, mouse+v
+	Axis 6: gradient, +key 114, -key 113
+	Axis 7: +key 116, -key 111
+	Button 1: mouse 1
+	Button 2: mouse 1
+	Button 3: mouse 1
+	Button 4: mouse 3
+	Button 5: mouse 1
+	Button 6: mouse 1
+	Button 7: key 119
+	Button 8: key 36
+	Button 9: key 9
+	Button 10: mouse 1
+	Button 11: mouse 1
+	Button 12: mouse 1
+	Button 13: mouse 1
+	Button 14: mouse 1
+	Button 15: mouse 1
+	Button 16: mouse 1
+	Button 17: mouse 1
+	Button 18: mouse 1
+	Button 19: mouse 1
+	Button 20: mouse 1
+	Button 21: mouse 1
+	Button 22: mouse 1
+	Button 23: mouse 1
+	Button 24: mouse 1
+	Button 25: mouse 1
+	Button 26: mouse 1
+	Button 27: mouse 1
+	Button 28: mouse 1
+	Button 29: mouse 1
+	Button 30: mouse 1
+	Button 31: mouse 1
+	Button 32: mouse 1
+}
+
+Joystick 2 {
+	Axis 1: +key 40, -key 38
+	Axis 2: +key 39, -key 25
+	Button 1: key 45
+	Button 2: key 44
+	Button 3: key 31
+	Button 4: key 32
+	Button 5: key 33
+	Button 6: key 46
+	Button 9: key 9
+	Button 10: key 36
+}
+
+Joystick 3 {
+	Axis 1: gradient, maxSpeed 2, mouse+h
+	Axis 2: gradient, maxSpeed 2, tCurve 0, mouse+v
+	Axis 3: gradient, maxSpeed 2, tCurve 0, mouse+v
+	Axis 4: gradient, maxSpeed 2, mouse+h
+	Axis 5: gradient, maxSpeed 2, tCurve 0, mouse+v
+	Axis 6: gradient, +key 114, -key 113
+	Axis 7: +key 116, -key 111
+	Button 6: key 111
+	Button 7: key 119
+	Button 8: key 36
+	Button 9: key 9
+}
+
