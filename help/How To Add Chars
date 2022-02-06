@@ -3,46 +3,46 @@ How To Add Chars from: https://www.wikihow.com/Add-Mugen-Characters
 MUGEN has quite robust support for adding characters, stages, custom character select, and menu screens. 
 There are countless characters available online that people have made, ranging from recreations of popular characters to completely original creations. 
 Adding downloaded characters to your MUGEN game requires editing the configuration files.
-## Step 1 ##
+______# Step 1 #______
 Download the character files for the character you want to add. There are hundreds of characters that you can add to your MUGEN game. 
 Character packs come in ZIP or RAR format. You can download these characters from a variety of different fan sites, including:
 MugenArchive.com
 MugenCharacters.org
 MugenFreeForAll.com
 
-# Step 2 #
+______# Step 2 #______
 Open the downloaded file. If its a ZIP file, you can just double-click it to see its contents. 
 If it is a RAR file, you'll need a program like WinRAR or 7-Zip to open the file.
 
-# Step 3 #
+______# Step 3 #_______
 Extract the files. Extract the ZIP or RAR file so that you can access the folder inside. 
 You can use the Extract button that appears when you open the file, or you can right-click on it and select "Extract files".
 
-# Step 4 #
+______# Step 4 #______
 Examine your files. The most important thing to look for when examining your new character files is the character's DEF file. This file must have the same name as the folder that contains it. 
 For example, if the folder name is "LINK_3D", the DEF file must be named "LINK_3D.def".
 If the new character folder has multiple DEF files in it, just make sure that the base one matches the folder name. For example, LINK_3D may have multiple DEF files for the different versions. 
 As long as the "LINK_3D.def" file matches the folder name, you should be OK.
 
-# Step 5 #
+______# Step 5 #______
 Open your MUGEN installation directory. MUGEN can be installed anywhere, so open the folder that you extracted your MUGEN files into after you downloaded it. 
 If you don't remember where it is, perform a search on your computer for "mugen".
 
-# Step 6 # 
+______# Step 6 #______
 Copy the new character's folder into the .char folder. 
 You'll find the char folder inside you mugen folder. 
 Drag the newly-extracted character folder into this folder.
 
-# Step 7 #
+______# Step 7 #______
 Open the .data folder in your mugen folder. This contains the files that control the MUGEN emulator.
 
-# Step 8 #
+______# Step 8 #______
 Open the "select.def" file in Notepad. Right-click on the file and select "Open with". Choose Notepad from the list of programs.
 
-# Step 9 #
+______# Step 9 #______
 Find the .[Characters] section. This is the list of all of the character files that have been added to your game.
 
-# Step 10 #
+______# Step 10 #______
 Type the name of the folder for your new character. 
 The name you type here needs to match the folder you added to your chars folder, which also needs to match the name of the character's DEF file. 
 For example, if your new character's folder is named LINK_3D, type LINK_3D in the [Characters] section.
@@ -52,6 +52,6 @@ This will tell MUGEN to load the base DEF file, which will process the rest of t
 There may be lots of comments in your "select.def" file. These are indicated by ; at the start of the line. 
 Make sure that you enter the characters on lines that don't start with ;.
 
-# Step 11 #
+______# Step 11 #______
 Set the character's order for Arcade Mode (optional). You can set the "order" of the character, which determines where it will appear in Arcade Mode. For example, by default the Arcade Mode pits you against six Order 1 opponents, one Order 2 opponent, and one Order 3 opponent. You can set the order of a character from 1 to 10. The game will randomly draw from all characters with the same order when determining a match-up.
 Add , order=# to the end of the character's entry in the "select.def" file. For example, to set LINK_3D as Order 3, type LINK_3D, order=3
