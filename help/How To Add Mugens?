@@ -1,0 +1,48 @@
+1. Download a mugen full game.
+2. Unzip if zipped. 
+3. Move to either /home/pi/RetroPie/roms/wine or /home/pi/RetroPie/roms/mugens
+  *If you dont have mugens system 
+    -Make .../roms/mugens folder
+    -Move mugen game to new  folder. 
+    -Then add mugen to es_systems.cfg 
+        --Copy wine system. 
+        --Replace "wine" with "mugen")
+        --Set paths in mugen system to ..../roms/mugens 
+    
+
+## Launching with exe ##
+3. Move to either /home/pi/RetroPie/roms/wine or /home/pi/RetroPie/roms/wine
+  *If you dont have mugens system 
+    -Make .../roms/mugens folder
+    -Move mugen game to new  folder. 
+    -Then add mugen to es_systems.cfg 
+        --Copy wine system. 
+        --Replace "wine" with "mugen")
+        --Set paths in mugen system to ..../roms/mugens - Restart Emulation Station should be where you placed. 
+4. Restart Emulation Station. Game should be in system in placed in 
+5. Test and make adjustments with in game menu.
+6. Enjoy!!!
+
+## Launching with .sh  ##
+4. Move to either /home/pi/RetroPie/roms/mugens/.games or /home/pi/RetroPie/roms/wine/.games
+    *If you dont have mugen system to folder. Then add mugen to es_systems.cfg
+5. In .../roms/mugens/.games/ or ...../roms/wine/.games
+6. Make a .sh file same name as your mugen game. Example: OG-Mugen.sh
+
+OG-Mugen in ...../roms/mugens/.games looks like:
+
+#!/bin/bash
+cd /home/pi/RetroPie/roms/mugens/.games/OGMugen/
+qjoypad "mugen"
+WINEDEBUG=-all LD_LIBRARY_PATH="/opt/retropie/supplementary/mesa/lib/" setarch linux32 -L wine "/home/pi/RetroPie/roms/mugens/.games/OGMugen/mugen.exe"
+
+OG-Mugen in ...../roms/wine/.games looks like this: 
+
+#!/bin/bash
+cd /home/pi/RetroPie/roms/mugens/.games/OGMugen/
+qjoypad "mugen"
+WINEDEBUG=-all LD_LIBRARY_PATH="/opt/retropie/supplementary/mesa/lib/" setarch linux32 -L wine "/home/pi/RetroPie/roms/mugens/.games/OGMugen/mugen.exe"
+
+7. Restart Emulation Station. Game should be in system in placed in 
+8. Test and make adjustments with in game menu.
+9. Enjoy!!!
