@@ -2,7 +2,8 @@
 
 - UPDATED February 4, 2022
 
-# Updating Installer soon to NEW AND IMPORVED VERSION 
+# Updating Installer soon
+-side note great minds think a like supreme was doing same thing.
 
 # V3 still works ....
  
