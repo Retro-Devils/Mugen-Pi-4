@@ -1,11 +1,8 @@
 # Mugen-Pi-4
 
-- UPDATED February 3, 2022
+- UPDATED February 4, 2022
 
 # Updating Installer soon to NEW AND IMPORVED VERSION 
-
-- The new version will be all The Devils 
-
 
 # V3 still works ....
  
