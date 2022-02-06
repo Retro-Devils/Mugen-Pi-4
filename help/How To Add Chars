@@ -3,7 +3,7 @@ How To Add Chars from: https://www.wikihow.com/Add-Mugen-Characters
 MUGEN has quite robust support for adding characters, stages, custom character select, and menu screens. 
 There are countless characters available online that people have made, ranging from recreations of popular characters to completely original creations. 
 Adding downloaded characters to your MUGEN game requires editing the configuration files.
-# Step 1 #
+## Step 1 ##
 Download the character files for the character you want to add. There are hundreds of characters that you can add to your MUGEN game. 
 Character packs come in ZIP or RAR format. You can download these characters from a variety of different fan sites, including:
 MugenArchive.com
