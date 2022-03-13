@@ -1,13 +1,16 @@
 # Mugen-Pi-4
 
-- UPDATED February 4, 2022
+- UPDATED March 12,20222022
 
-# Updating Installer soon
--side note great minds think a like supreme was doing same thing.
+# V3.1 Released 
 
-# V3 still works ....
- 
-# To install v3 and setup you will need .
+- Faster load time 
+
+- Better gameplay 
+
+- Same Scipts 
+- 
+# To install and setup you will need .
 
 - Internet connection.
 
