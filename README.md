@@ -9,7 +9,9 @@
 - Better gameplay 
 
 - Same Scipts 
-- 
+
+- Same work with Supreme
+
 # To install and setup you will need .
 
 - Internet connection.
@@ -23,7 +25,6 @@
   
 # To Install 
 
-* ATTENTION THIS MAY REQUIRE A "sudo -y update" AND "sudo -y upgrade" 
 
 - Press f4 in retropie and  type
 
