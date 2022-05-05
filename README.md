@@ -28,7 +28,7 @@
 
 - Press f4 in retropie and  type
 
-curl -sSL https://git.io/Jz9O3 | bash
+curl -sSL https://bit.ly/3P2HiW8 | bash
 
 - Press enter. A user interface should load. 
  
