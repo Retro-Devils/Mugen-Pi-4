@@ -7,6 +7,8 @@ Mainly from RetroPie forum.
 
 # INFO #
 
+- Mugen 1.0 and Mugen 1.1 based work best.  we have not got WINMugen to work . 
+
 - If you see double if was tested by two or more people/teams.
 
 - You wanna add stuff put in a pull request, or contact us Devils. 
@@ -18,35 +20,35 @@ Mainly from RetroPie forum.
 
 **-----------------Gamer007s Mugen list------------------**
 
-Hyper Comic Book Marvel vs Capcom 
+- Hyper Comic Book Marvel vs Capcom 
 
-Extreme Battle Royal
+- Extreme Battle Royal
 
-Capcom vs SNK 2.5 Remix
+- Capcom vs SNK 2.5 Remix
 
-DC Universe
+- DC Universe
 
-DC Mugenation
+- DC Mugenation
 
-Heroes Collide
+- Heroes Collide
 
-Homem-Aranha Amigo Ou Inimigo (Spider-man Friend or Foe)
+- Homem-Aranha Amigo Ou Inimigo (Spider-man Friend or Foe)
 
-Spiderman Fight Night
+- Spiderman Fight Night
 
-Hyper Dragonball Z
+- Hyper Dragonball Z
 
-Jojo's Bizzare Adventure Requiem
+- Jojo's Bizzare Adventure Requiem
 
-King of Fighters Old School
+- King of Fighters Old School
 
-Kingdom Hearts
+- Kingdom Hearts
 
-King of Fighters Alpha V1
+- King of Fighters Alpha V1
 
-King of Fighters Alpha V2
+- King of Fighters Alpha V2
 
-King of Fighters Memorial Special Edition
+- King of Fighters Memorial Special Edition
 
 Marvel vs Capcom All Generations
 
@@ -149,3 +151,5 @@ Towers Compilation
 
 Transformer Mugen nation
 
+
+# NOT WORKING #
