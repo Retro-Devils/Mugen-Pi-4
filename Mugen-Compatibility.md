@@ -14,7 +14,7 @@ Mainly from RetroPie forum.
 
 # WORKING MUGENS #
 
-** ----Gamer007s Mugen list---- **
+**---Gamer007s Mugen list----**
 
 Hyper Comic Book Marvel vs Capcom 
 
@@ -77,7 +77,7 @@ The Black Heart
 
 Darkstalkers Jedah's Damnation
 
-** ----Various People---- **
+**----Various People----**
 
 Dark Stalkers vs Street Fighter
 
