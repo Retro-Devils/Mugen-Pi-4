@@ -1,6 +1,18 @@
-Sourced from RetroPie community and Retro Devils. Mainly from RetroPie forum. If you see double if was tested by two or more people/teams.
 
-# WORKING #
+# WHERES THIS SOURCED FROM? #
+
+Sourced from RetroPie community and Retro Devils. 
+
+Mainly from RetroPie forum. 
+
+# INFO #
+
+- If you see double if was tested by two or more people/teams.
+
+- You wanna add stuff put in a pull request, or contact us Devils. 
+
+
+# WORKING MUGENS #
 
 ** ----Gamer007s Mugen list---- **
 
