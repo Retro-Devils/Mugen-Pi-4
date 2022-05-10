@@ -1,8 +1,9 @@
-# SOURCED FROM #
+# SOURCES #
 
-- Leeps Video YouTube 
+Sourced from many place, Leeps Video on  YouTube, the Retro Devils etc.  
 
-- The Retro Devils 
+Sources are at the top of each list .
+
 
 # WORKING  #
 
