@@ -1,3 +1,10 @@
+# SOURCES #
+
+Sourced from many places. RetroPie forum, leeps videos, etc.
+
+Source is at top of list. example Devils Tested then list .
+
+
 # WORKING #
 
 **----------------Devils Tested----------------**
