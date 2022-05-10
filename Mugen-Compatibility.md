@@ -1,5 +1,5 @@
 
-# WHERES THIS SOURCED FROM? #
+# SOURCES #
 
 Sourced from RetroPie community and Retro Devils. 
 
