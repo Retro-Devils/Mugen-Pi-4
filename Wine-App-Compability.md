@@ -1,6 +1,9 @@
-# WORK IN PRGORESS#
+# WORK IN PRGORESS #
 
-Assembling soon .
+- Notepad 
+
+- Paint 
+
 
 # Sources 
 
