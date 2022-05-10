@@ -50,11 +50,11 @@ Mainly from RetroPie forum.
 
 - King of Fighters Memorial Special Edition
 
-Marvel vs Capcom All Generations
+- Marvel vs Capcom All Generations
 
-Marvel vs Capcom Origins
+- Marvel vs Capcom Origins
 
-Marvel vs Capcom vs SNK Screenpack 1.0 (Full Game)
+- Marvel vs Capcom vs SNK Screenpack 1.0 (Full Game)
 
 Multiverse Cross Generation of Fighters
 
