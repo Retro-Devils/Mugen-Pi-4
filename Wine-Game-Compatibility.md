@@ -94,119 +94,119 @@ Source is at top of list. example Devils Tested then list .
 - Fallout2
 
 - Fiber Twig
-- 
+
 - Five Card Deluxe
-- 
+
 - Fix it Felix Jr.
-- 
+
 - Flip Words
-- 
+
 - Flying Leo
-- 
+
 - Fortune Tiles Gold
-- 
+
 - GameHouse 
-- 
+
 - Sudoku
-- 
+
 - Gearz
-- 
+
 - Granny in Paradise
-- 
+
 - Gutterball
-- 
+
 - Gutterball2
-- 
+
 - Halo Doom
-- 
+
 - Hello!
-- 
+
 - Holiday Express
-- 
+
 - House of the Dead
-- 
+
 - Hydro Thunder
-- 
+
 - Ice Cold Beer
-- 
-- Iggle Pop!
-- 
+
+- Iggle Pop
+
 - Incredible Ink
-- 
+
 - Insaniquarium Deluxe
-- 
+
 - InspectorParkerLuxor
-- 
-- Mad Cap
-- 
+
+- Mad Cap 
+
 - Magic Ball 2 New Worlds
-- 
-- Magic Ball 2
-- 
-- Mah Jong Medley
-- 
+
+- Magic Ball 2 
+
+- Mah Jong Medley 
+
 - Maui WoweeMegaman X8
-- 
+
 - Nickelodeon Jigsaw
-- 
+
 - Pac-Man
-- 
+
 - Pin High Country Club Golf
-- 
+
 - Pizza Frenzy
-- 
+ 
 - Puzzle Express
-- 
+ 
 - QBz
-- 
+ 
 - Reader's Digest Super Word Power
-- 
+ 
 - Ricochet Lost Worlds - Recharged
-- 
+ 
 - Ricochet Lost Worlds
-- 
+ 
 - Ricochet
-- 
+ 
 - Roller Rush
-- 
+ 
 - Saints & Sinners Bingo
-- 
+ 
 - Samorogt 2
-- 
+ 
 - SCRABBLE
-- 
+ 
 - SkiFree
-- 
+ 
 - Slingo Deluxe
-- 
+ 
 - SpelvinSplash
-- 
+ 
 - Spooky Castle
-- 
+ 
 - Spring Sprang Sprung
-- 
+ 
 - Sugar Rush Speedway
-- 
+ 
 - Super Collapse! II Platinum
-- 
+ 
 - Super SpongeBob Collapse
-- 
+ 
 - Teenage Mutant Ninja Turtles
-- 
+ 
 - Ten Pin Championship Bowling Pro
-- 
+ 
 - TerrordromeTradewinds 2
-- 
+ 
 - Turtle Bay
-- 
+ 
 - Twin Pines Mall
-- 
+ 
 - Twistingo
-- 
+ 
 - Ultimate Dominoes
-- 
+ 
 - Varmintz Deluxe
-- 
+ 
 - Walls of Jericho
-- 
+ 
 - WCW NitroWord Jolt
