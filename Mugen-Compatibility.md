@@ -56,100 +56,99 @@ Mainly from RetroPie forum.
 
 - Marvel vs Capcom vs SNK Screenpack 1.0 (Full Game)
 
-Multiverse Cross Generation of Fighters
+- Multiverse Cross Generation of Fighters
 
-Marvel vs Capcom Clash of Superheroes
+- Marvel vs Capcom Clash of Superheroes
 
-Meltyblood vs Darkstalkers
+- Meltyblood vs Darkstalkers
 
-Metal SlugMortal Kombat 11
+- Metal SlugMortal Kombat 11
 
-Mortal Kombat Special Edition
+- Mortal Kombat Special Edition
 
-Ninja Master Heat
+- Ninja Master Heat
 
-Super Smash Bros.
+- Super Smash Bros.
 
-Super Smash Bros. Clash
+- Super Smash Bros. Clash
 
+- Super Fighter Team
 
-Super Fighter Team
+- Super V.G.
 
-Super V.G.
+- The Black Heart
 
-The Black Heart
-
-Darkstalkers Jedah's Damnation
+- Darkstalkers Jedah's Damnation
 
 **---------------------Various People-----------------------**
 
-Dark Stalkers vs Street Fighter
+- Dark Stalkers vs Street Fighter
 
-DC vs Marvel
+- DC vs Marvel
 
-Disney Edition
+- Disney Edition
 
-Disney vs Capcom
+- Disney vs Capcom
 
-Dragon Ball Z Fury Budokai
+- Dragon Ball Z Fury Budokai
 
-Famicom Fighters
+- Famicom Fighters
 
-Gundam Wing
+- Gundam Wing
 
-Heroes
+- Heroes
 
-Infinity M Battle
+- Infinity M Battle
 
-JoJos Bizarre Adventure
+- JoJos Bizarre Adventure
 
-Justice League Task Force
+- Justice League Task Force
 
-King of Fighters '98
+- King of Fighters '98
 
-Kirby Dean Battle
+- Kirby Dean Battle
 
-Marvel Fighting Tournament
+- Marvel Fighting Tournament
 
-Marvel vs Avengers
+- Marvel vs Avengers
 
-Marvel vs Capcom
+- Marvel vs Capcom
 
-Mega Man Robot Master Mayhem
+- Mega Man Robot Master Mayhem
 
-MK Remake Gore
+- MK Remake Gore
 
-MK Anthology
+- MK Anthology
 
-Nemesis Diamond Veal
+- Nemesis Diamond Veal
 
-Neo Geo Battle Collesium
+- Neo Geo Battle Collesium
 
-One Piece
+- One Piece
 
-Power Rangers
+- Power Rangers
 
-Queen of Fighters
+- Queen of Fighters
 
-Real Bout Fatal Fury
+- Real Bout Fatal Fury
 
-Resident Evil
+- Resident Evil
 
-Sonic Fighters 2
+- Sonic Fighters 2
 
-Street Fighter Alpha 4
+- Street Fighter Alpha 4
 
-Super Smah Bros
+- Super Smah Bros
 
-Super Heroes 2000
+- Super Heroes 2000
 
-The Black Heart
+- The Black Heart
 
-King of Fighters Super Nova
+- King of Fighters Super Nova
 
-Towers Compilation
+- Towers Compilation
 
-Transformer Mugen nation
+- Transformer Mugen nation
 
 
 # NOT WORKING #
