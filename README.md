@@ -82,7 +82,7 @@ If you don't know select mugem with all updates .
 
 - If successful your game should be under wine/games/mugenfoldername/ in retropie.
 
--Want video instructions ? Here ya go .
+- Want video instructions ? Here ya go .
 
 https://youtu.be/CBKyoicI_-Q
 
@@ -190,7 +190,7 @@ Credit for link to pigamer
 
 # What other games work ? 
 
--A bunch heres a list on retropie forum. Different method same results, emus etc.
+- A bunch heres a list on retropie forum. Different method same results, emus etc.
 
 https://retropie.org.uk/forum/topic/29241/the-which-games-works-with-box86-wine-topic-on-the-retropie-rpi4-400
 
@@ -198,7 +198,7 @@ https://retropie.org.uk/forum/topic/29241/the-which-games-works-with-box86-wine-
 
 - This is community made and maintained . Hopefully soon RetroPie/Raspberry Pi will use wine/box86.  George McMullen has a pull request in Retropie github.
 
--With V3 major props to Supreme Retro Gaming . They worked hard and made it so much better. 
+- With V3 major props to Supreme Retro Gaming . They worked hard and made it so much better. 
 
 # Sources
 
