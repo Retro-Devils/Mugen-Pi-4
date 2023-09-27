@@ -25,7 +25,9 @@ Source is at top of list. example Devils Tested then list .
 
 - Fallout Tactics
 
-- StarcraftWarcraft 3
+- Starcraft
+
+- Warcraft 3
 
 **-------------------Anonymous------------------**
 
@@ -210,3 +212,16 @@ Source is at top of list. example Devils Tested then list .
 - Walls of Jericho
  
 - WCW NitroWord Jolt
+
+
+# Tested by Actraiser30 
+
+- Warhammer dawn of war demo works with arm-boost enabled
+
+- Alien VS Predator works but slow needs high overclock
+
+- Need For Speed Underground Demo
+
+- Sudden Strike
+
+
