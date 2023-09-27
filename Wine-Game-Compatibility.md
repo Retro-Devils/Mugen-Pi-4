@@ -214,7 +214,7 @@ Source is at top of list. example Devils Tested then list .
 - WCW NitroWord Jolt
 
 
-##------------------Actraiser30 Tested Games------------------##
+## ------------------Actraiser30 Tested Games------------------ ##
 
 - Warhammer dawn of war demo works with arm-boost enabled
 
