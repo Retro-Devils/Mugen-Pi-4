@@ -7,7 +7,7 @@ Source is at top of list. example Devils Tested then list .
 
 # WORKING #
 
-**----------------Devils Tested----------------**
+**----------------Devils Tested Games----------------**
 
 - Age Of Empires
 
@@ -214,7 +214,7 @@ Source is at top of list. example Devils Tested then list .
 - WCW NitroWord Jolt
 
 
-# Tested by Actraiser30 
+##------------------Actraiser30 Tested Games------------------##
 
 - Warhammer dawn of war demo works with arm-boost enabled
 
